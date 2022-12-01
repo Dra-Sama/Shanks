@@ -83,7 +83,7 @@ def get_readable_time(seconds: int) -> str:
 
 PM_START_TEXT = """──────「 *Shanks* [🌺](https://te.legra.ph/file/ece230a3a5655ca7964b0.mp4) 」──────
 
-×× *Hey! It's Yor, truly Yours! I'm an anime themed group management bot with a lots of advance features!* ××
+×× *Hey! It's Shanks, truly Yours! I'm an anime themed group management bot with a lots of advance features!* ××
 ➖➖➖➖➖➖➖➖➖➖
 ×× Try The Command Help Buttons Below To Know My Abilities ××
 
